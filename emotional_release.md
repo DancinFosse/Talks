@@ -1,10 +1,10 @@
-# Talk Title
+# Emotional Release
 
 ## Talk Resources
 * [Slides](./Slides/sampleslides.pptx)
 
 
-## Your Name<!-- include: your_bio.md -->
+## Your Name<!-- include: sara.md -->
 
 * [Your Blog](https://you.blogspot.com/)
 * [Your Others links](https://google.com/you)
