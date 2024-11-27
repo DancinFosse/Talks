@@ -4,11 +4,13 @@
 * [Slides](./Slides/sampleslides.pptx)
 
 
-## Your Name<!-- include: sara.md -->
+## Sara<!-- include: sara.md -->
 
-* [Your Blog](https://you.blogspot.com/)
-* [Your Others links](https://google.com/you)
+* [linkedIn](https://www.linkedin.com/in/sara-fahring-4b35bb22/)
 
-A bit about you
-<!-- endInclude -->
+
+Sara is trained in interpersonal dynamics, teaching, and emotional intelligence.
+She primarily works with women's groups, helping them process their emotions more effectively and enhance their overall enjoyment of life. 
+
+She has a fondness for chocolate mints.<!-- endInclude -->
 
