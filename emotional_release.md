@@ -1,8 +1,9 @@
 # Emotional Release
 
 ## Talk Resources
-* [Slides](https://github.com/DancinFosse/Talks/raw/refs/heads/main/Slides/EmotionalRelease.pptx)
 
+* [Slides](https://github.com/DancinFosse/Talks/raw/refs/heads/main/Slides/EmotionalRelease.pptx)
+* [Printout](https://github.com/DancinFosse/Talks/raw/refs/heads/main/Slides/EmotionalReleasePrintouts.pdf)
 
 ## Sara<!-- include: sara.md -->
 
